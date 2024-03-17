@@ -1,5 +1,5 @@
 # demos0
 
-<img src="https://github.com/karlzipser/ztorch/blob/master/birds-eye-view-with-bboxes.gif">
+<img src="https://github.com/karlzipser/demos0/blob/master/clip_3_slow-320x180.gif">
 
 
