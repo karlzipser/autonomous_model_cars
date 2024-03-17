@@ -9,7 +9,6 @@
 These are examples of projects my team and I created for the Berkeley Deep Drive program.
 
 
-  body { font-family:Calibri; font-size:12pt } p { margin:0pt } li { margin-top:0pt; margin-bottom:0pt }
 
 **Publications**:
 
@@ -35,4 +34,4 @@ These are examples of projects my team and I created for the Berkeley Deep Drive
 
 **•**      [**Hou, Y., Hornauer, S., & Zipser, K. (2017). Fast recurrent fully convolutional networks for direct perception in autonomous driving. arXiv preprint arXiv:1711.06459.**](https://arxiv.org/abs/1711.06459)
 
-[Converted to HTML with WordToHTML.net](https://wordtohtml.net)
+
